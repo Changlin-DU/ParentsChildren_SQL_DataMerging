@@ -1,0 +1,18 @@
+# PSID data must remain local
+data/raw/*
+data/processed/*
+
+# Keep documentation placeholders
+!data/raw/README.md
+!data/processed/README.md
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.Rproj.user/
+
+# macOS and R session files
+.DS_Store
+.Rhistory
+.RData

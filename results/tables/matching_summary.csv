@@ -1,0 +1,11 @@
+statistic,value
+matched parent-child pairs,23938
+mother-child pairs,14422
+father-child pairs,9516
+unique matched children,15728
+children matched to mother,14422
+children matched to father,9516
+children matched to both parents,8210
+usable 2020 income pairs,14290
+usable 2022 income pairs,13416
+usable multi-year income pairs,12207
